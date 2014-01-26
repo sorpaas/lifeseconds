@@ -34,6 +34,10 @@ rows.each do |row|
   end
 end
 
+File.open('data/years.json', 'w') do |file|
+  file.write(JSON.generate(years))
+end
+
 File.open('data/countries.json', 'w') do |file|
   file.write(JSON.generate(country_codes))
 end

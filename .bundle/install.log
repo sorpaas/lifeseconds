@@ -1,0 +1,3 @@
+# Logfile created on 2014-01-26 18:13:17 +0800 by logger.rb/41954
+I, [2014-01-26T18:13:17.408307 #18779]  INFO -- : 0:  webrick (1.3.1) from /Users/sorpaas/.rvm/gems/ruby-2.0.0-p353/specifications/webrick-1.3.1.gemspec
+I, [2014-01-26T18:13:17.422026 #18779]  INFO -- : 0:  bundler (1.5.1) from /Users/sorpaas/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
